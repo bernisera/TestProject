@@ -28,5 +28,10 @@ namespace TestProj
         {
             MessageBox.Show("Clicked");
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Clicked");
+        }
     }
 }
